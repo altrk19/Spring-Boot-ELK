@@ -36,8 +36,6 @@ services:
          image: elasticsearch:7.4.2
          environment:
             - discovery.type=single-node
-         volumes:
-             - $HOME/app:/usr/share/elasticsearch/data 
 
          ports: 
              - "9200:9200"   
