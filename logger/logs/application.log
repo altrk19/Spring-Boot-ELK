@@ -1,0 +1,5 @@
+2020-05-09 15:57:01 INFO  HV000001: Hibernate Validator 6.0.19.Final
+2020-05-09 15:57:26 INFO  Info log
+2020-05-09 15:57:26 WARN  Hey, This is a warning!
+2020-05-09 15:57:26 ERROR Oops! We have an Error. OK
+2020-05-09 15:57:26 FATAL Damn! Fatal error. Please fix me.

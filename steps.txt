@@ -1,0 +1,12 @@
+1. create logger project
+2. mvn clean install
+3. create dockerfile logger procject
+4. docker build -t logger .
+5. create dockerfile filebat
+6. create yml  filebat
+7. docker build -t aturk/filebeat .
+8. create dockerfile logstash
+9. create logstash.conf
+10. docker build -t aturk/logstash .
+11. create docker-compose file
+12. docker-compose up -d
